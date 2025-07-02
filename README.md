@@ -3,7 +3,7 @@
 A simple and responsive currency converter web app built with **React** and **Vite**. Instantly convert between currencies using live exchange rates.
 
 ![Screenshot](public/Screenshot%202025-07-03%20023656.png)
-![Screenshot](public/Screenshot%202025-07-03%20023715.png)
+![Screenshot](public/WhatsApp%20Image%202025-07-03%20at%2002.45.42_3595c592.jpg)
 
 ## Features
 
@@ -12,6 +12,11 @@ A simple and responsive currency converter web app built with **React** and **Vi
 - Swap currencies with a single click
 - Responsive and modern UI with Tailwind CSS
 - Fast development experience with Vite
+
+## Live Demo
+
+👉 [Visit the live project here](https://cryptopriceconverter.netlify.app/)
+
 
 ## Getting Started
 
