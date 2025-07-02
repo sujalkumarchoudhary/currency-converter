@@ -30,7 +30,7 @@ A simple and responsive currency converter web app built with **React** and **Vi
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/sujalkumarchoudhary/currency-converter.git
    cd currency-converter
    ```
 2. **Install dependencies:**
