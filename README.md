@@ -53,10 +53,6 @@ yarn build
 
 This will create an optimized build of your app in the `dist` directory.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
