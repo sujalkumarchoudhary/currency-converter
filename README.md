@@ -2,7 +2,8 @@
 
 A simple and responsive currency converter web app built with **React** and **Vite**. Instantly convert between currencies using live exchange rates.
 
-![Screenshot](public/vite.svg)
+![Screenshot](public/Screenshot%202025-07-03%20023656.png)
+![Screenshot](public/Screenshot%202025-07-03%20023715.png)
 
 ## Features
 
